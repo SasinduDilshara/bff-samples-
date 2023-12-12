@@ -1,0 +1,8 @@
+[package]
+org = "admin"
+name = "sample_microservices"
+version = "0.1.0"
+distribution = "2201.8.3"
+
+[build-options]
+observabilityIncluded = true
